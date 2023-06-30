@@ -1,0 +1,3 @@
+[submodule "project1/backend-authorization-project"]
+	path = project1/backend-authorization-project
+	url = https://github.com/dantaayy/backend-authorization-project.git
