@@ -6,6 +6,7 @@ This repository is a collection of some of my key learnings during my XXXX - XXX
 - **Host Company**:
 - **Duration**:
 - **Link to Portfolio Website**:
+- Backend authorization, Pokeverse
 
 ## Portfolio Introduction
 - Who you are
