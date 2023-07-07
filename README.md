@@ -29,19 +29,19 @@ become a better Software Engineer that I have worked on through out this Apprent
 | Job Function   | Description    |
 | -------------- | -------------- |
 | 1.1   | Can explain all stages of the software development lifecycle (what each stage contains, including the inputs and outputs) |
-| 1.7   |  |
-| 3.1   |  |
+| 1.7   | Can follow company, team or client approaches to continuous integration, version and source control |
+| 3.1   | Can explain the principles of algorithms, logic and data structures relevant to software development (e.g., Arrays, Stacks, Queues, Linked Lists, Trees, Graphs, Hash Tables, Sorting Algorithms, Searching Algorithms, Critical sections and race conditions) |
 | 3.5   | Can apply algorithms, logic, and data structures |
 | 3.8   | Can encrypt sensitive data via hashing |
-| 4.3   |  |
-| 4.5   |  |
-| 4.6   |  |
-| 4.8   |  |
-| 5.2   |  |
-| 5.3   |  |
-| 5.5   |  |
-| 6.1   |  |
-| 6.2   |  |
-| 6.3   |  |
-| 6.6   |  |
-| 6.7   |  |
+| 4.3   | Is able to build, manage and deploy code into the relevant environment |
+| 4.5   | Can explain relevant and up-to-date software testing frameworks and methodologies |
+| 4.6   | Can test code and analyze results to correct errors found using unit testing |
+| 4.8   | Can identify and create test scenarios |
+| 5.2   | Understands how to test code and analyze results to correct errors found using unit testing |
+| 5.3   | Understands how to conduct a range of test types, such as Integration, System, User Acceptance, Non-Functional, Performance and Security testing. |
+| 5.5   | Understands and can apply structured techniques to problem solving, can debug code and can understand the structure of programmes to identify and resolve issues |
+| 6.1   | Knows how best to communicate using different communication methods and how to adapt appropriately to different audiences |
+| 6.2   | Understands how to follow company, team or client approaches to continuous integration, version and source control |
+| 6.3   | Able to communicate software solutions and ideas to technical and non-technical stakeholders |
+| 6.6   | Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve |
+| 6.7   | Communicates effectively in a variety of situations to both a technical and nontechnical audience. |
