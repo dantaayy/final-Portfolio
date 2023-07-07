@@ -22,7 +22,7 @@ become a better Software Engineer that I have worked on through out this Apprent
 
 ## On the Job Skills learned
 - Understanding all stages of Software development when it comes to building, testing, then deploying
-- 
+- Debugging code by adding logs to narrow down where issue is happening
 
 
 ### Job Functions
