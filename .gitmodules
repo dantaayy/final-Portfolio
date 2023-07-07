@@ -1,9 +1,0 @@
-[submodule "project1/backend-authorization-project"]
-	path = project1/backend-authorization-project
-	url = https://github.com/dantaayy/backend-authorization-project.git
-[submodule "project2/springboot-docker-project"]
-	path = project2/springboot-docker-project
-	url = https://github.com/dantaayy/springboot-docker-project.git
-[submodule "project3/choreo-capstone"]
-	path = project3/choreo-capstone
-	url = https://github.com/dantaayy/choreo-capstone.git
