@@ -14,6 +14,9 @@ This repository is a collection of some of my key learnings during my XXXX - XXX
 - The teams you have worked on
 - Your areas of interest
 
+### Job Functions
+| Job Function   | Description    |
+| -------------- | -------------- |
 | 1.1   | Can explain all stages of the software development lifecycle (what each stage contains, including the inputs and outputs) |
 | 1.7   |  |
 | 3.1   |  |
