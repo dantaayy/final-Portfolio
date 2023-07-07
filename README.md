@@ -1,18 +1,20 @@
 # Final Portfolio
 
-This repository is a collection of some of my key learnings during my XXXX - XXXX apprenticeship at COMPANY_HERE.
+This repository is a collection of some of my key learnings during my 2022 - 2023 apprenticeship at AMEX sponsored by Multiverse.
 
 ## Overview of Apprenticeship
-- **Host Company**:
-- **Duration**:
-- **Link to Portfolio Website**:
-- Backend authorization, Pokeverse
+During my apprenticeship with Multiverse and 2 different AMEX teams as a Sotware Engineer, I learned the importance of security design, least privelige, SDLC
+and how to navigate through a large code base. I have been able to resolve multiple tickets for my team that not only drives our user experience, but also
+pushing least privelege through the whole company.
+
+For security reasons, for any code snippets that are shown, please note they have nothing to do with Amex and they are projects that have helped me
+become a better Software Engineer that I have worked on through out this Apprenticeship hosted by Multiverse.
 
 ## Portfolio Introduction
-- Who you are
-- Why you do what you do
-- The teams you have worked on
-- Your areas of interest
+- My name is Dante Zelaya and I am born and raise in Tucson, AZ.
+- I became a Software Engineer thanks to Multiverse, but I specifically am insterested in the Security side after watching movies and seeing how the movies show
+  the actors hacking systems, or blocking others from being able to hack them.
+
 
 ### Job Functions
 | Job Function   | Description    |
