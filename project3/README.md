@@ -1,27 +1,30 @@
-## Project #3
-Give a high-level overview of the project purpose
-- What are the users?
-- What job does it form for them?
-- What inspired you to make it?
-- What features are the most important?
-- Include relevant screenshots
+# Springboot-Docker-project
+This project ensures that the data that is within the database is secure and drives least privelege for all users. Non admins have limited access while admins have elevated access to view the data.
+I was inspired to create this project becasue security is the most important aspect when dealing with personal information and sensitive data.
 
-## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+## Overview
+This project is the first of mine using secure practices to ensure users do not have access to private information. Tokens are used to authenticate users to check
+if a user has admin capabilities.
+The specifics of this project include the following:
 
-## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+* Create a database of users using Sequelize
+* JWT to manage secrets and tokens
+* Middleware for authorization
+* API endpoints that utilize CRUD (Create, Read, Update, Delete)
 
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+## Project Insight
+### Register Page
+
+### Login page
+
+### See your info as non-admin
+
+### Admin view of users
+
+### Job Functions
+| Job Function   | Description    |
+| -------------- | -------------- |
+| 1.6   | Can follow software designs and functional/technical specifications |
+| 2.2   | Can identify relevant and up-to-date software designs and how to read and implement functional/technical specifications |
+| 3.2   | Can explain the principles and uses of relational and non-relationsal databases |
+| 3.6   | Can implement a RESTFUL API |
