@@ -15,6 +15,12 @@ become a better Software Engineer that I have worked on through out this Apprent
 - I became a Software Engineer thanks to Multiverse, but I specifically am insterested in the Security side after watching movies and seeing how the movies show
   the actors hacking systems, or blocking others from being able to hack them.
 
+## Technical Projects
+
+## On the Job Skills learned
+- Understanding all stages of Software development when it comes to building, testing, then deploying
+- 
+
 
 ### Job Functions
 | Job Function   | Description    |
