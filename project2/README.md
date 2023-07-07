@@ -16,9 +16,12 @@ This was my first full React project done with a team. It helped me understand t
 | 1.2   | Can describe the roles and responsibilities within the software development lifecycle (who is responsible for what) |
 | 1.3   | The roles and responsibilities of the project lifecycle within your organization, and your role |
 | 1.4   | The similarities and differences between different software development methodologies, such as agile and waterfall |
+| 1.5   | Can work effectively and contribute appropriately on a team to produce software |
 | 1.8   | How best to communicate using the different communication methods and how to adapt appropriately to different audiences |
 | 2.1   | Create analysis artifacts, such as use cases and/or user stories |
 | 2.3   | Develop effective user interfaces |
 | 2.4   | Create simple software designs to effectively communicate understanding of the program |
+| 2.5   | Can implement a resposnive user interface |
+| 2.7   | Effectively manages state for complex User Interfaces |
 | 5.1   | Shows curiosity to the business context in which the solution will be used, displaying an inquisitive approach to solving the problem. This includes the curiosity to explore new opportunities, and techniques; the tenacity to improve methods and maximize performance of the solution; and creativity in their approach to solutions. |
 | 6.5   | Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk and stays motivated and committed when facing challenges |
