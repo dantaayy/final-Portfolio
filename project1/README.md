@@ -25,6 +25,7 @@ The specifics of this project include the following:
 | Job Function   | Description    |
 | -------------- | -------------- |
 | 3.3   | Link code to data sets. |
+| 3.7   | Can implement authentication and authorization to an API |
 | 4.1   | Organizational policies and procedures relating to the tasks being undertaken, and when to follow them. For example, the storage and treatment of GDPR sensitive data. |
 | 4.2   | Acts with integrity with respect to ethical, legal and regulatory ensuring the protection of personal data, safety and security. |
 | 4.4   | Interpret and implement a given design whist remaining compliant with security and maintainability requirements. |
