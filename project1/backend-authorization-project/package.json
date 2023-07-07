@@ -1,0 +1,38 @@
+{
+  "name": "backend-authorization-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch-all",
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "seed": "node db/seed.js -import"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dantaayy/backend-authorization-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dantaayy/backend-authorization-project/issues"
+  },
+  "homepage": "https://github.com/dantaayy/backend-authorization-project#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "jest": "^29.1.2",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.23.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

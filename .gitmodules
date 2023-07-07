@@ -1,0 +1,9 @@
+[submodule "project2/star-wars-react-project"]
+	path = project2/star-wars-react-project
+	url = https://github.com/Multiverse-Hummingbirds/star-wars-react-project.git
+[submodule "project3/springboot-docker-project"]
+	path = project3/springboot-docker-project
+	url = https://github.com/dantaayy/springboot-docker-project.git
+[submodule "backend-authorization-project"]
+	path = project1/backend-authorization-project
+	url = https://github.com/dantaayy/backend-authorization-project.git
