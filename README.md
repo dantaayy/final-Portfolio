@@ -16,6 +16,9 @@ become a better Software Engineer that I have worked on through out this Apprent
   the actors hacking systems, or blocking others from being able to hack them.
 
 ## Technical Projects
+- Springboot Docker Project
+- Star Wars React Project
+- Backend Authorization Project
 
 ## On the Job Skills learned
 - Understanding all stages of Software development when it comes to building, testing, then deploying
