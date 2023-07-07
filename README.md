@@ -20,6 +20,8 @@ This repository is a collection of some of my key learnings during my XXXX - XXX
 | 1.1   | Can explain all stages of the software development lifecycle (what each stage contains, including the inputs and outputs) |
 | 1.7   |  |
 | 3.1   |  |
+| 3.5   | Can apply algorithms, logic, and data structures |
+| 3.8   | Can encrypt sensitive data via hashing |
 | 4.3   |  |
 | 4.5   |  |
 | 4.6   |  |
