@@ -13,6 +13,7 @@ This was my first full React project done with a team. It helped me understand t
 ### Job Functions
 | Job Function   | Description    |
 | -------------- | -------------- |
+| 1.2   | Can describe the roles and responsibilities within the software development lifecycle (who is responsible for what) |
 | 1.3   | The roles and responsibilities of the project lifecycle within your organization, and your role |
 | 1.4   | The similarities and differences between different software development methodologies, such as agile and waterfall |
 | 1.8   | How best to communicate using the different communication methods and how to adapt appropriately to different audiences |
