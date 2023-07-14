@@ -1,25 +1,43 @@
-# Springboot-Docker-project
-This project ensures that the data that is within the database is secure and drives least privelege for all users. Non admins have limited access while admins have elevated access to view the data.
-I was inspired to create this project becasue security is the most important aspect when dealing with personal information and sensitive data.
+# Springboot-docker-project
 
-## Overview
-This project is the first of mine using secure practices to ensure users do not have access to private information. Tokens are used to authenticate users to check
-if a user has admin capabilities.
-The specifics of this project include the following:
+This project is my first Springboot project and it is containerized using docker.
 
-* Create a database of users using Sequelize
-* JWT to manage secrets and tokens
-* Middleware for authorization
-* API endpoints that utilize CRUD (Create, Read, Update, Delete)
+## Competencies
 
-## Project Insight
-### Register Page
+- Understand the basic concepts of Java, Springboot and Docker and how to properly containerize thr porject using docker.
 
-### Login page
+- This project will help me understand the basics of Java and Springboot and how to use Docker on my local machine. I will learn how to properly containerize the app by using the proper images and security.
 
-### See your info as non-admin
+## Table of contents
 
-### Admin view of users
+- [Introduction](#introduction)
+- [Technologies](#technologies)
+- [Features](#features)
+
+---
+
+## Introduction
+
+- The aim for this project is to be in the shoes Ted Talk organizer who needs to make sure everyone attending can access the correct sessions and speakers
+- The app has full CRUD (Create, Read, Update, Delete) functionality to be able to update or modify any sessions or speakers if needed.
+- The data is a relational database
+- Postgres is used to manage the database
+
+---
+
+## Technologies
+
+- Java - version 1.8
+- Springboot - version 2.7.7
+- Postgres
+
+---
+
+## Features
+
+- CRUD functionality for all speakers
+- CRUD functionality for all sessions
+- Relational data set between speakers and sessions
 
 ### Job Functions
 | Job Function   | Description    |
