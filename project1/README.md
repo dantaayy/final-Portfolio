@@ -24,9 +24,15 @@ The specifics of this project include the following:
   
 * API endpoints that utilize CRUD (Create, Read, Update, Delete)
 
+  (Get your info by id - Admins can also get any user by id)
+
   ![image](https://github.com/dantaayy/final-Portfolio/assets/74522928/1234948c-adbc-46e8-829a-ade3680d957a)
 
+  (Get of all users as an admin)
+
   ![image](https://github.com/dantaayy/final-Portfolio/assets/74522928/2a8cb2da-a733-4a8d-a4fa-45eb587a3142)
+
+  (Delete self only - or if admin you can delete anyone as neccessary)
 
   ![image](https://github.com/dantaayy/final-Portfolio/assets/74522928/b26ec99e-a6e9-4927-a2f5-86d7477d4239)
 
