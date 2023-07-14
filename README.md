@@ -21,8 +21,20 @@ become a better Software Engineer that I have worked on through out this Apprent
 - Backend Authorization Project
 
 ## On the Job Skills learned
-- Understanding all stages of Software development when it comes to building, testing, then deploying
-- Debugging code by adding logs to narrow down where issue is happening
+- Understanding all stages of Software development when it comes to building, testing, then deploying by working through tickets.
+  Multiple tickets have been resolved and deployed into production to help customers and other teams successfuly complete their tasks by maintaining
+  proper privilege.
+- Following team/company standards when it comes to making changes to code in production by first making the changes in lower test environments, and validating
+  the change before moving to production.
+- Debugging code by adding logs to narrow down where issue is happening. When a ticket is raised and I am assigned to it. I go and add logs to the code
+  and check the logs to see where the error is occuring to the exact line in the codebase. Once the error is identified I analyze why the error is occuring,
+  implement the change, then test the change. Once I have completed my own validated tests, I will hand over to testing team to re validate before making
+  the release into production.
+- Working with up to date Java version, and the technology we use to implement Least Privilege through out the company
+- Certain tickets require the use of algorithms to ensure user have correct access, and only certain users can make certain changes. This drive the teams main focus of least privilege
+- Working in a team of highly knowledgeable experts and learning a large code base, being able to effectively communicate through slack, or Webex has been a big part of how
+  I have been able to navigate and help the team in an effective way. It has also shown my team I am  not afraid to ask questions for help or on guidance. They are also well aware
+  of where I am in the process of my fixes as I share updates on my progress.
 
 
 ### Job Functions
