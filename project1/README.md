@@ -8,18 +8,28 @@ if a user has admin capabilities.
 The specifics of this project include the following:
 
 * Create a database of users using Sequelize
+
+  ![image](https://github.com/dantaayy/final-Portfolio/assets/74522928/69b0d1ef-be4b-4cac-b4f3-4ddf73d8a323)
+
+  
 * JWT to manage secrets and tokens
+
+  ![image](https://github.com/dantaayy/final-Portfolio/assets/74522928/4c381926-cb00-48b8-85ac-ccf4b0eac6b6)
+
+
 * Middleware for authorization
+
+  ![image](https://github.com/dantaayy/final-Portfolio/assets/74522928/381e094b-56f4-467c-95ee-bd10c5da9b61)
+
+  
 * API endpoints that utilize CRUD (Create, Read, Update, Delete)
 
-## Project Insight
-### Register Page
+  ![image](https://github.com/dantaayy/final-Portfolio/assets/74522928/1234948c-adbc-46e8-829a-ade3680d957a)
 
-### Login page
+  ![image](https://github.com/dantaayy/final-Portfolio/assets/74522928/2a8cb2da-a733-4a8d-a4fa-45eb587a3142)
 
-### See your info as non-admin
+  ![image](https://github.com/dantaayy/final-Portfolio/assets/74522928/b26ec99e-a6e9-4927-a2f5-86d7477d4239)
 
-### Admin view of users
 
 ### Job Functions
 | Job Function   | Description    |
