@@ -4,8 +4,19 @@ The project utilizes the following React functions/capabilties:
 * useState is used to properly load the data correctly
 * useContext is used to add certain characters to a favorites list, and displya them on the Favorites page
 * useEffect is used to fetch the correct API call to SWAPI
+
+  ![image](https://github.com/dantaayy/final-Portfolio/assets/74522928/54782004-c545-47f2-bb83-754087abdce2)
+
+  
 * Nested routes are used for proper navigation through the site
-* Bootstrap is sued for the styling
+
+  ![image](https://github.com/dantaayy/final-Portfolio/assets/74522928/b6f194c0-b970-4e36-9433-1300ad28a659)
+
+  
+* Bootstrap is used for the styling
+
+  ![image](https://github.com/dantaayy/final-Portfolio/assets/74522928/5fe37405-8ba7-4cf4-990f-5bfa93505323)
+
 
 ## Overview
 This was my first full React project done with a team. It helped me understand the SDLC while working within a team. We were able to create an effective interface for users. And also take responsibility on ourselves to independently create the neccesary functions of the interface.
